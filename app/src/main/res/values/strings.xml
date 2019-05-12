@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Service Tester</string>
+    <string name="connection_service_label">My VoIP Service</string>
+</resources>
